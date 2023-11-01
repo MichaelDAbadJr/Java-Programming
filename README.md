@@ -1,4 +1,4 @@
-This is a repository of Java Classes demonstrating  fundementals of programming such as:
+This is a repository of Java Classes demonstrating  fundamentals of programming such as:
   - loops
   - if statemetns 
   - conditionals 
